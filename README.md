@@ -1,4 +1,5 @@
 # Notification-Service-NodeJS
+
 Notification service built using:
 
 <p align="center">
@@ -43,6 +44,6 @@ $ npm run test:cov
 
 ## 📝 License
 
-MIT licensed.
+MIT.
 
 ---
